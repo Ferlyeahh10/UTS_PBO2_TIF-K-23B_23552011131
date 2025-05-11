@@ -1,0 +1,9 @@
+model\TenagaMedis.class
+model\DetailResep.class
+model\Pasien.class
+model\Resep.class
+model\Apoteker.class
+model\Dokter.class
+model\Obat.class
+main\MainApp.class
+model\Transaksi.class
